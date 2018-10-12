@@ -1,1 +1,1 @@
-# Programing-Challenges
+# Project Euler
